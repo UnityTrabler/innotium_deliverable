@@ -39,3 +39,8 @@
 
 # debug information files
 *.dwo
+
+# Ignore vs cache files
+.vs/
+*.ipch
+*.VC.db
